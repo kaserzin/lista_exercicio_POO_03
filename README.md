@@ -1,0 +1,2 @@
+a) Arrays de tipos primitivos, como int[] e double[], armazenam diretamente os valores na memória. Já arrays de objetos, como Aluno[] e Produto[], armazenam referências para objetos criados separadamente com new. Inicialmente, as posições de arrays de objetos contêm null, até que referências sejam atribuídas a elas.
+b) Primeiramente deve-se certificar se há algum objeto na posição que está sendo acessado, outro cuidado e acessar apenas posições que existem dentro dos limites do array
